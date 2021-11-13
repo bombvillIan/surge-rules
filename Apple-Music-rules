@@ -15,8 +15,8 @@ DOMAIN,hls-amt.itunes.apple.com
 DOMAIN,audio-ssl.itunes.apple.com
 #iTunes购买后播放
 DOMAIN,streamingaudio.itunes.apple.com
-#iTunes Match资料库
-DOMAIN-SUFFIX,amazonaws.com
+#iTunes Match资料库(同 notion)
+#DOMAIN-SUFFIX,amazonaws.com
 #疑似iTunes
 #DOMAIN-SUFFIX,xp.apple.com
 #Siri 听写
