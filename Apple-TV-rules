@@ -1,24 +1,24 @@
-DOMAIN, init.itunes.apple.com
-DOMAIN, bag.itunes.apple.com
-DOMAIN, apps.mzstatic.com
-DOMAIN, uts-api.itunes.apple.com
-DOMAIN, play.itunes.apple.com
-DOMAIN, uts-api.itunes.apple.com
-DOMAIN, s.mzstatic.com
-DOMAIN, upp.itunes.apple.com
-DOMAIN, p23-buy.itunes.apple.com
-DOMAIN, sf-api-token-service.itunes.apple.com
-DOMAIN, amp-api.videos.apple.com
-DOMAIN, is1-ssl.mzstatic.com
-DOMAIN, is4-ssl.mzstatic.com
-DOMAIN, is5-ssl.mzstatic.com
-DOMAIN, is2-ssl.mzstatic.com
-DOMAIN, is3-ssl.mzstatic.com
-DOMAIN, play-edge.itunes.apple.com
-DOMAIN, daf.xp.apple.com
+#DOMAIN, init.itunes.apple.com
+#DOMAIN, bag.itunes.apple.com
+#DOMAIN, apps.mzstatic.com
+#DOMAIN, uts-api.itunes.apple.com
+#DOMAIN, play.itunes.apple.com
+#DOMAIN, uts-api.itunes.apple.com
+#DOMAIN, s.mzstatic.com
+#DOMAIN, upp.itunes.apple.com
+#DOMAIN, p23-buy.itunes.apple.com
+#DOMAIN, sf-api-token-service.itunes.apple.com
+#DOMAIN, amp-api.videos.apple.com
+#DOMAIN, is1-ssl.mzstatic.com
+#DOMAIN, is4-ssl.mzstatic.com
+#DOMAIN, is5-ssl.mzstatic.com
+#DOMAIN, is2-ssl.mzstatic.com
+#DOMAIN, is3-ssl.mzstatic.com
+#DOMAIN, play-edge.itunes.apple.com
+#DOMAIN, daf.xp.apple.com
 #播放
 DOMAIN, vod-ap-aoc.tv.apple.com
 #下载
 DOMAIN, vod-ap-amt.tv.apple.com
-DOMAIN, hls-svod-aoc.itunes.apple.com
+#DOMAIN, hls-svod-aoc.itunes.apple.com
 #xp.apple.com
