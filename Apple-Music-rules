@@ -21,4 +21,5 @@ DOMAIN,streamingaudio.itunes.apple.com
 #DOMAIN-SUFFIX,xp.apple.com
 #Siri 听写
 #DOMAIN-SUFFIX,guzzoni.apple.com
-
+#搜索
+DOMAIN,amp-api.music.apple.com
