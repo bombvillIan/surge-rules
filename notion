@@ -2,3 +2,6 @@ DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 DOMAIN-SUFFIX,o324374.ingest.sentry.io
+DOMAIN-SUFFIX,logs-01.loggly.com
+PROCESS-NAME,/Applications/Notion.app/Contents/MacOS/Notion
+PROCESS-NAME,/Applications/Notion.app/Contents/Frameworks/Notion Helper.app/Contents/MacOS/Notion Helper
