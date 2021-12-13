@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
 DOMAIN-SUFFIX,o324374.ingest.sentry.io
 DOMAIN-SUFFIX,logs-01.loggly.com
