@@ -22,7 +22,7 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,iadctest.qwapi.com
 DOMAIN,ocsp.sectigo.com
-DOMAIN,time.apple.com
+#DOMAIN,time.apple.com
 DOMAIN,c.apple.news
 DOMAIN,dispatcher.is.autonavi.com
 DOMAIN,gsa.apple.com
