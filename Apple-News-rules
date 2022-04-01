@@ -23,20 +23,28 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN,iadctest.qwapi.com
 DOMAIN,ocsp.sectigo.com
+
 #DOMAIN,time.apple.com
+
 DOMAIN,c.apple.news
 DOMAIN,dispatcher.is.autonavi.com
+
 #DOMAIN,gsa.apple.com
 #DOMAIN,play.itunes.apple.com
 #DOMAIN,gsas.apple.com
+
 DOMAIN,newsletter-edge.apple.com
 DOMAIN,iadctest.qwapi.com
+
 #DOMAIN,proxy.safebrowsing.apple
+
 DOMAIN,news.iadsdk.apple.com
 
-#DOMAIN,configuration.ls.apple.com
-#DOMAIN,gsp-ssl.ls.apple.com
-#DOMAIN,gspe1-ssl.ls.apple.com
+#DOMAIN-SUFFIX,ls.apple.com
+
+DOMAIN,configuration.ls.apple.com
+DOMAIN,gsp-ssl.ls.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
 
 #DOMAIN,gspe19-ssl.ls.apple.com
 #mesu.apple.com
