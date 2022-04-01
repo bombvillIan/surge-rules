@@ -33,16 +33,17 @@ DOMAIN,newsletter-edge.apple.com
 DOMAIN,iadctest.qwapi.com
 DOMAIN,proxy.safebrowsing.apple
 IP-CIDR,17.188.169.196
+DOMAIN,news.iadsdk.apple.com
 
-#configuration.ls.apple.com
-#gsp-ssl.ls.apple.com
-#gspe1-ssl.ls.apple.com
-#gspe19-ssl.ls.apple.com
+DOMAIN,configuration.ls.apple.com
+DOMAIN,gsp-ssl.ls.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gspe19-ssl.ls.apple.com
 #mesu.apple.com
-#weather-data.apple.com
+DOMAIN,weather-data.apple.com
 #cl4.apple.com
 #gateway.icloud.com
-#xp.apple.com
+DOMAIN,xp.apple.com
 #p32-fmip.icloud.com
 
 
