@@ -26,24 +26,24 @@ DOMAIN,ocsp.sectigo.com
 #DOMAIN,time.apple.com
 DOMAIN,c.apple.news
 DOMAIN,dispatcher.is.autonavi.com
-DOMAIN,gsa.apple.com
-DOMAIN,play.itunes.apple.com
-DOMAIN,gsas.apple.com
+#DOMAIN,gsa.apple.com
+#DOMAIN,play.itunes.apple.com
+#DOMAIN,gsas.apple.com
 DOMAIN,newsletter-edge.apple.com
 DOMAIN,iadctest.qwapi.com
-DOMAIN,proxy.safebrowsing.apple
+#DOMAIN,proxy.safebrowsing.apple
 DOMAIN,news.iadsdk.apple.com
 
-DOMAIN,configuration.ls.apple.com
-DOMAIN,gsp-ssl.ls.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
+#DOMAIN,configuration.ls.apple.com
+#DOMAIN,gsp-ssl.ls.apple.com
+#DOMAIN,gspe1-ssl.ls.apple.com
 
-DOMAIN,gspe19-ssl.ls.apple.com
+#DOMAIN,gspe19-ssl.ls.apple.com
 #mesu.apple.com
-DOMAIN,weather-data.apple.com
+#DOMAIN,weather-data.apple.com
 #cl4.apple.com
 #gateway.icloud.com
-DOMAIN,xp.apple.com
+#DOMAIN,xp.apple.com
 #p32-fmip.icloud.com
 
 
