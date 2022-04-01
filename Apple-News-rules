@@ -34,4 +34,27 @@ DOMAIN,iadctest.qwapi.com
 DOMAIN,proxy.safebrowsing.apple
 IP-CIDR,17.188.169.196
 
+#configuration.ls.apple.com
+#gsp-ssl.ls.apple.com
+#gspe1-ssl.ls.apple.com
+#gspe19-ssl.ls.apple.com
+#mesu.apple.com
+#weather-data.apple.com
+#cl4.apple.com
+#gateway.icloud.com
+#xp.apple.com
+#p32-fmip.icloud.com
+
+
+
+
+
+
+
+
+
+
+
+
+
 
