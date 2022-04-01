@@ -10,6 +10,7 @@
 
 # > Apple News
 DOMAIN,gspe1-ssl.ls.apple.com // 必要，但会导致「地图」使用「TOMTOM」版本数据
+DOMAIN,cdn.apple-mapkit.com
 PROCESS-NAME,News
 USER-AGENT,AppleNews*
 USER-AGENT,News* // 「今日头条」亦使用此，故不启用
