@@ -32,7 +32,6 @@ DOMAIN,gsas.apple.com
 DOMAIN,newsletter-edge.apple.com
 DOMAIN,iadctest.qwapi.com
 DOMAIN,proxy.safebrowsing.apple
-IP-CIDR,17.188.169.196
 DOMAIN,news.iadsdk.apple.com
 
 DOMAIN,configuration.ls.apple.com
