@@ -25,3 +25,8 @@ DOMAIN,ocsp.sectigo.com
 DOMAIN,time.apple.com
 DOMAIN,c.apple.news
 DOMAIN,dispatcher.is.autonavi.com
+DOMAIN,gsa.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,gsas.apple.com
+DOMAIN,newsletter-edge.apple.com
+DOMAIN,iadctest.qwapi.com
