@@ -37,6 +37,7 @@ DOMAIN,news.iadsdk.apple.com
 DOMAIN,configuration.ls.apple.com
 DOMAIN,gsp-ssl.ls.apple.com
 DOMAIN,gspe1-ssl.ls.apple.com
+
 DOMAIN,gspe19-ssl.ls.apple.com
 #mesu.apple.com
 DOMAIN,weather-data.apple.com
